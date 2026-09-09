@@ -10,4 +10,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0940-distinct-subsequences-ii](https://github.com/pavithrasundaram12-pavi/leetcode-problem/tree/master/0940-distinct-subsequences-ii) |
+## Math
+|  |
+| ------- |
+| [3871-count-commas-in-range-ii](https://github.com/pavithrasundaram12-pavi/leetcode-problem/tree/master/3871-count-commas-in-range-ii) |
 <!---LeetCode Topics End-->
