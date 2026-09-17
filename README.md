@@ -40,10 +40,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [1331-rank-transform-of-an-array](https://github.com/pavithrasundaram12-pavi/leetcode-problem/tree/master/1331-rank-transform-of-an-array) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/pavithrasundaram12-pavi/leetcode-problem/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 ## Hash Table
 |  |
 | ------- |
+| [1331-rank-transform-of-an-array](https://github.com/pavithrasundaram12-pavi/leetcode-problem/tree/master/1331-rank-transform-of-an-array) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/pavithrasundaram12-pavi/leetcode-problem/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 ## Binary Search
 |  |
@@ -53,4 +55,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/pavithrasundaram12-pavi/leetcode-problem/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+## Sorting
+|  |
+| ------- |
+| [1331-rank-transform-of-an-array](https://github.com/pavithrasundaram12-pavi/leetcode-problem/tree/master/1331-rank-transform-of-an-array) |
 <!---LeetCode Topics End-->
