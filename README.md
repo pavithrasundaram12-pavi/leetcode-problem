@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/pavithrasundaram12-pavi/leetcode-problem/tree/master/0002-add-two-numbers) |
 | [3871-count-commas-in-range-ii](https://github.com/pavithrasundaram12-pavi/leetcode-problem/tree/master/3871-count-commas-in-range-ii) |
 ## Tree
 |  |
@@ -59,4 +60,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1331-rank-transform-of-an-array](https://github.com/pavithrasundaram12-pavi/leetcode-problem/tree/master/1331-rank-transform-of-an-array) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/pavithrasundaram12-pavi/leetcode-problem/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/pavithrasundaram12-pavi/leetcode-problem/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
