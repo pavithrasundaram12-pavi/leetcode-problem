@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/pavithrasundaram12-pavi/leetcode-problem/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/pavithrasundaram12-pavi/leetcode-problem/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Array
 |  |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/pavithrasundaram12-pavi/leetcode-problem/tree/master/1331-rank-transform-of-an-array) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/pavithrasundaram12-pavi/leetcode-problem/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/pavithrasundaram12-pavi/leetcode-problem/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/pavithrasundaram12-pavi/leetcode-problem/tree/master/2091-removing-minimum-and-maximum-from-array) |
 ## Hash Table
 |  |
 | ------- |
