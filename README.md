@@ -77,11 +77,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/pavithrasundaram12-pavi/leetcode-problem/tree/master/0002-add-two-numbers) |
 | [0141-linked-list-cycle](https://github.com/pavithrasundaram12-pavi/leetcode-problem/tree/master/0141-linked-list-cycle) |
+| [0206-reverse-linked-list](https://github.com/pavithrasundaram12-pavi/leetcode-problem/tree/master/0206-reverse-linked-list) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/pavithrasundaram12-pavi/leetcode-problem/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 ## Recursion
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/pavithrasundaram12-pavi/leetcode-problem/tree/master/0002-add-two-numbers) |
+| [0206-reverse-linked-list](https://github.com/pavithrasundaram12-pavi/leetcode-problem/tree/master/0206-reverse-linked-list) |
 ## Simulation
 |  |
 | ------- |
