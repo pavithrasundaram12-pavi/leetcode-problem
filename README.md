@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/pavithrasundaram12-pavi/leetcode-problem/tree/master/0084-largest-rectangle-in-histogram) |
 | [0239-sliding-window-maximum](https://github.com/pavithrasundaram12-pavi/leetcode-problem/tree/master/0239-sliding-window-maximum) |
+| [0704-binary-search](https://github.com/pavithrasundaram12-pavi/leetcode-problem/tree/master/0704-binary-search) |
 | [0912-sort-an-array](https://github.com/pavithrasundaram12-pavi/leetcode-problem/tree/master/0912-sort-an-array) |
 | [0966-vowel-spellchecker](https://github.com/pavithrasundaram12-pavi/leetcode-problem/tree/master/0966-vowel-spellchecker) |
 | [1331-rank-transform-of-an-array](https://github.com/pavithrasundaram12-pavi/leetcode-problem/tree/master/1331-rank-transform-of-an-array) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0704-binary-search](https://github.com/pavithrasundaram12-pavi/leetcode-problem/tree/master/0704-binary-search) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/pavithrasundaram12-pavi/leetcode-problem/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 ## Sliding Window
 |  |
