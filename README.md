@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/pavithrasundaram12-pavi/leetcode-problem/tree/master/0084-largest-rectangle-in-histogram) |
 | [0239-sliding-window-maximum](https://github.com/pavithrasundaram12-pavi/leetcode-problem/tree/master/0239-sliding-window-maximum) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/pavithrasundaram12-pavi/leetcode-problem/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0704-binary-search](https://github.com/pavithrasundaram12-pavi/leetcode-problem/tree/master/0704-binary-search) |
 | [0912-sort-an-array](https://github.com/pavithrasundaram12-pavi/leetcode-problem/tree/master/0912-sort-an-array) |
 | [0966-vowel-spellchecker](https://github.com/pavithrasundaram12-pavi/leetcode-problem/tree/master/0966-vowel-spellchecker) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/pavithrasundaram12-pavi/leetcode-problem/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0704-binary-search](https://github.com/pavithrasundaram12-pavi/leetcode-problem/tree/master/0704-binary-search) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/pavithrasundaram12-pavi/leetcode-problem/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 ## Sliding Window
@@ -86,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/pavithrasundaram12-pavi/leetcode-problem/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0912-sort-an-array](https://github.com/pavithrasundaram12-pavi/leetcode-problem/tree/master/0912-sort-an-array) |
 | [1096-brace-expansion-ii](https://github.com/pavithrasundaram12-pavi/leetcode-problem/tree/master/1096-brace-expansion-ii) |
 | [1331-rank-transform-of-an-array](https://github.com/pavithrasundaram12-pavi/leetcode-problem/tree/master/1331-rank-transform-of-an-array) |
@@ -143,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/pavithrasundaram12-pavi/leetcode-problem/tree/master/0239-sliding-window-maximum) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/pavithrasundaram12-pavi/leetcode-problem/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0912-sort-an-array](https://github.com/pavithrasundaram12-pavi/leetcode-problem/tree/master/0912-sort-an-array) |
 ## Monotonic Queue
 |  |
@@ -180,4 +184,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/pavithrasundaram12-pavi/leetcode-problem/tree/master/0912-sort-an-array) |
+## Matrix
+|  |
+| ------- |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/pavithrasundaram12-pavi/leetcode-problem/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 <!---LeetCode Topics End-->
