@@ -28,14 +28,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/pavithrasundaram12-pavi/leetcode-problem/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/pavithrasundaram12-pavi/leetcode-problem/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/pavithrasundaram12-pavi/leetcode-problem/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/pavithrasundaram12-pavi/leetcode-problem/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
 |  |
 | ------- |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/pavithrasundaram12-pavi/leetcode-problem/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/pavithrasundaram12-pavi/leetcode-problem/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Two Pointers
 |  |
@@ -141,4 +144,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/pavithrasundaram12-pavi/leetcode-problem/tree/master/0022-generate-parentheses) |
+## Binary Lifting
+|  |
+| ------- |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/pavithrasundaram12-pavi/leetcode-problem/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Lowest Common Ancestor
+|  |
+| ------- |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/pavithrasundaram12-pavi/leetcode-problem/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 <!---LeetCode Topics End-->
