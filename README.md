@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/pavithrasundaram12-pavi/leetcode-problem/tree/master/0084-largest-rectangle-in-histogram) |
 | [0239-sliding-window-maximum](https://github.com/pavithrasundaram12-pavi/leetcode-problem/tree/master/0239-sliding-window-maximum) |
+| [0912-sort-an-array](https://github.com/pavithrasundaram12-pavi/leetcode-problem/tree/master/0912-sort-an-array) |
 | [0966-vowel-spellchecker](https://github.com/pavithrasundaram12-pavi/leetcode-problem/tree/master/0966-vowel-spellchecker) |
 | [1331-rank-transform-of-an-array](https://github.com/pavithrasundaram12-pavi/leetcode-problem/tree/master/1331-rank-transform-of-an-array) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/pavithrasundaram12-pavi/leetcode-problem/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0912-sort-an-array](https://github.com/pavithrasundaram12-pavi/leetcode-problem/tree/master/0912-sort-an-array) |
 | [1096-brace-expansion-ii](https://github.com/pavithrasundaram12-pavi/leetcode-problem/tree/master/1096-brace-expansion-ii) |
 | [1331-rank-transform-of-an-array](https://github.com/pavithrasundaram12-pavi/leetcode-problem/tree/master/1331-rank-transform-of-an-array) |
 ## Linked List
@@ -139,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/pavithrasundaram12-pavi/leetcode-problem/tree/master/0239-sliding-window-maximum) |
+| [0912-sort-an-array](https://github.com/pavithrasundaram12-pavi/leetcode-problem/tree/master/0912-sort-an-array) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -155,4 +158,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/pavithrasundaram12-pavi/leetcode-problem/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/pavithrasundaram12-pavi/leetcode-problem/tree/master/0912-sort-an-array) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/pavithrasundaram12-pavi/leetcode-problem/tree/master/0912-sort-an-array) |
+## Bucket Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/pavithrasundaram12-pavi/leetcode-problem/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/pavithrasundaram12-pavi/leetcode-problem/tree/master/0912-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/pavithrasundaram12-pavi/leetcode-problem/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
