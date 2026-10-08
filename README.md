@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0208-implement-trie-prefix-tree](https://github.com/pavithrasundaram12-pavi/leetcode-problem/tree/master/0208-implement-trie-prefix-tree) |
 | [0940-distinct-subsequences-ii](https://github.com/pavithrasundaram12-pavi/leetcode-problem/tree/master/0940-distinct-subsequences-ii) |
 | [0966-vowel-spellchecker](https://github.com/pavithrasundaram12-pavi/leetcode-problem/tree/master/0966-vowel-spellchecker) |
+| [1021-remove-outermost-parentheses](https://github.com/pavithrasundaram12-pavi/leetcode-problem/tree/master/1021-remove-outermost-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/pavithrasundaram12-pavi/leetcode-problem/tree/master/1096-brace-expansion-ii) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/pavithrasundaram12-pavi/leetcode-problem/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/pavithrasundaram12-pavi/leetcode-problem/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/pavithrasundaram12-pavi/leetcode-problem/tree/master/0084-largest-rectangle-in-histogram) |
+| [1021-remove-outermost-parentheses](https://github.com/pavithrasundaram12-pavi/leetcode-problem/tree/master/1021-remove-outermost-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/pavithrasundaram12-pavi/leetcode-problem/tree/master/1096-brace-expansion-ii) |
 ## Breadth-First Search
 |  |
@@ -158,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/pavithrasundaram12-pavi/leetcode-problem/tree/master/0022-generate-parentheses) |
+| [1021-remove-outermost-parentheses](https://github.com/pavithrasundaram12-pavi/leetcode-problem/tree/master/1021-remove-outermost-parentheses) |
 ## Binary Lifting
 |  |
 | ------- |
