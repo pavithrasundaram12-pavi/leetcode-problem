@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/pavithrasundaram12-pavi/leetcode-problem/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2073-time-needed-to-buy-tickets](https://github.com/pavithrasundaram12-pavi/leetcode-problem/tree/master/2073-time-needed-to-buy-tickets) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/pavithrasundaram12-pavi/leetcode-problem/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/pavithrasundaram12-pavi/leetcode-problem/tree/master/2778-sum-of-squares-of-special-elements) |
 ## Hash Table
 |  |
 | ------- |
@@ -205,4 +206,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/pavithrasundaram12-pavi/leetcode-problem/tree/master/0208-implement-trie-prefix-tree) |
+## Enumeration
+|  |
+| ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/pavithrasundaram12-pavi/leetcode-problem/tree/master/2778-sum-of-squares-of-special-elements) |
 <!---LeetCode Topics End-->
