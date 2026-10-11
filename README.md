@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0006-zigzag-conversion](https://github.com/pavithrasundaram12-pavi/leetcode-problem/tree/master/0006-zigzag-conversion) |
 | [0022-generate-parentheses](https://github.com/pavithrasundaram12-pavi/leetcode-problem/tree/master/0022-generate-parentheses) |
 | [0058-length-of-last-word](https://github.com/pavithrasundaram12-pavi/leetcode-problem/tree/master/0058-length-of-last-word) |
 | [0208-implement-trie-prefix-tree](https://github.com/pavithrasundaram12-pavi/leetcode-problem/tree/master/0208-implement-trie-prefix-tree) |
