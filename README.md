@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/pavithrasundaram12-pavi/leetcode-problem/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/pavithrasundaram12-pavi/leetcode-problem/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/pavithrasundaram12-pavi/leetcode-problem/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/pavithrasundaram12-pavi/leetcode-problem/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/pavithrasundaram12-pavi/leetcode-problem/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/pavithrasundaram12-pavi/leetcode-problem/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/pavithrasundaram12-pavi/leetcode-problem/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/pavithrasundaram12-pavi/leetcode-problem/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2073-time-needed-to-buy-tickets](https://github.com/pavithrasundaram12-pavi/leetcode-problem/tree/master/2073-time-needed-to-buy-tickets) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/pavithrasundaram12-pavi/leetcode-problem/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/pavithrasundaram12-pavi/leetcode-problem/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/pavithrasundaram12-pavi/leetcode-problem/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/pavithrasundaram12-pavi/leetcode-problem/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3364-minimum-positive-sum-subarray](https://github.com/pavithrasundaram12-pavi/leetcode-problem/tree/master/3364-minimum-positive-sum-subarray) |
@@ -110,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/pavithrasundaram12-pavi/leetcode-problem/tree/master/0912-sort-an-array) |
 | [1096-brace-expansion-ii](https://github.com/pavithrasundaram12-pavi/leetcode-problem/tree/master/1096-brace-expansion-ii) |
 | [1331-rank-transform-of-an-array](https://github.com/pavithrasundaram12-pavi/leetcode-problem/tree/master/1331-rank-transform-of-an-array) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/pavithrasundaram12-pavi/leetcode-problem/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/pavithrasundaram12-pavi/leetcode-problem/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Linked List
 |  |
