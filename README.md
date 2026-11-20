@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-distinct-subsequences-ii](https://github.com/pavithrasundaram12-pavi/leetcode-problem/tree/master/0940-distinct-subsequences-ii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/pavithrasundaram12-pavi/leetcode-problem/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/pavithrasundaram12-pavi/leetcode-problem/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/pavithrasundaram12-pavi/leetcode-problem/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 ## Math
 |  |
 | ------- |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2567-minimum-score-by-changing-two-elements](https://github.com/pavithrasundaram12-pavi/leetcode-problem/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/pavithrasundaram12-pavi/leetcode-problem/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/pavithrasundaram12-pavi/leetcode-problem/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/pavithrasundaram12-pavi/leetcode-problem/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3364-minimum-positive-sum-subarray](https://github.com/pavithrasundaram12-pavi/leetcode-problem/tree/master/3364-minimum-positive-sum-subarray) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/pavithrasundaram12-pavi/leetcode-problem/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Hash Table
@@ -113,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1096-brace-expansion-ii](https://github.com/pavithrasundaram12-pavi/leetcode-problem/tree/master/1096-brace-expansion-ii) |
 | [1331-rank-transform-of-an-array](https://github.com/pavithrasundaram12-pavi/leetcode-problem/tree/master/1331-rank-transform-of-an-array) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/pavithrasundaram12-pavi/leetcode-problem/tree/master/2567-minimum-score-by-changing-two-elements) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/pavithrasundaram12-pavi/leetcode-problem/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/pavithrasundaram12-pavi/leetcode-problem/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Linked List
 |  |
