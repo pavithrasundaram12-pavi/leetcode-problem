@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0006-zigzag-conversion](https://github.com/pavithrasundaram12-pavi/leetcode-problem/tree/master/0006-zigzag-conversion) |
+| [0014-longest-common-prefix](https://github.com/pavithrasundaram12-pavi/leetcode-problem/tree/master/0014-longest-common-prefix) |
 | [0022-generate-parentheses](https://github.com/pavithrasundaram12-pavi/leetcode-problem/tree/master/0022-generate-parentheses) |
 | [0058-length-of-last-word](https://github.com/pavithrasundaram12-pavi/leetcode-problem/tree/master/0058-length-of-last-word) |
 | [0208-implement-trie-prefix-tree](https://github.com/pavithrasundaram12-pavi/leetcode-problem/tree/master/0208-implement-trie-prefix-tree) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/pavithrasundaram12-pavi/leetcode-problem/tree/master/0014-longest-common-prefix) |
 | [0084-largest-rectangle-in-histogram](https://github.com/pavithrasundaram12-pavi/leetcode-problem/tree/master/0084-largest-rectangle-in-histogram) |
 | [0239-sliding-window-maximum](https://github.com/pavithrasundaram12-pavi/leetcode-problem/tree/master/0239-sliding-window-maximum) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/pavithrasundaram12-pavi/leetcode-problem/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -226,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Trie
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/pavithrasundaram12-pavi/leetcode-problem/tree/master/0014-longest-common-prefix) |
 | [0208-implement-trie-prefix-tree](https://github.com/pavithrasundaram12-pavi/leetcode-problem/tree/master/0208-implement-trie-prefix-tree) |
 ## Enumeration
 |  |
